@@ -1,5 +1,5 @@
 # Sketches
 
-![!!!Caption for image!!!](!!!filename.png!!!)
+![Sketch for Team UX homepage](sketch.png)
 
-!!!Give context by explaining each sketch image!!!
+This sketch illustrates the different pages of the app...
